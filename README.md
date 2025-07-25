@@ -1,3 +1,6 @@
-**Work in progress\n**
+**Work in progress**
 
-#BenchyNet\n
+#BenchyNet
+
+*/Pointclouds*
+.txt files containing pointcloud representations of the files based on 2048 sampled points from the sliced gcode file, represented in <x y z\n> formaat
